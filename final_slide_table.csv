@@ -1,5 +1,0 @@
-engagement_segment,n_users,success_rate,withdraw_rate,median_clicks,median_active_days,median_avg_score,median_assess
-High volume / High progress,13164,0.859,0.035,1791.0,94.0,80.875,9.0
-Low volume / High progress,3133,0.716,0.053,362.0,29.0,77.571,9.0
-High volume / Low progress,3133,0.433,0.31,1126.0,59.0,67.0,4.0
-Low volume / Low progress,13163,0.037,0.65,84.0,7.0,0.0,0.0
