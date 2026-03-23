@@ -1,0 +1,5 @@
+final_result,total_clicks,log_total_clicks,active_days,unique_resources,num_quiz,avg_score,num_assess_attempted,total_weight,clicks_per_day,resources_per_day,assessments_per_day,quiz_share,engagement_breadth,engagement_intensity,assessment_density,resource_efficiency,click_efficiency
+Distinction,1896.0,7.548,103.0,82.0,40.0,89.417,9.0,100.0,19.358,0.944,0.083,0.023,0.047,7.309,0.034,1.089,0.047
+Fail,317.0,5.762,22.0,32.0,3.0,61.0,3.0,25.0,14.64,1.464,0.111,0.013,0.103,1.251,0.011,1.29,0.106
+Pass,1343.0,7.203,78.0,73.0,33.0,77.857,9.0,100.0,17.825,1.063,0.106,0.022,0.056,5.225,0.034,0.992,0.056
+Withdrawn,89.0,4.5,7.0,14.0,0.0,0.0,0.0,0.0,14.443,1.667,0.056,0.004,0.124,0.347,0.0,0.927,0.068

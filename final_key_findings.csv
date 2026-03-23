@@ -1,0 +1,15 @@
+finding,value
+Volume-only model performance on success,0.8972
+Volume+progress model performance on success,0.9486
+Increment from progress features on success,0.0514
+Volume-only model performance on withdrawal,0.8622
+Volume+progress model performance on withdrawal,0.9143
+Increment from progress features on withdrawal,0.0521
+High volume / High progress success rate,0.859
+Low volume / High progress success rate,0.716
+High volume / Low progress success rate,0.433
+Low volume / Low progress success rate,0.037
+High volume / High progress withdrawal rate,0.035
+Low volume / High progress withdrawal rate,0.053
+High volume / Low progress withdrawal rate,0.31
+Low volume / Low progress withdrawal rate,0.65
